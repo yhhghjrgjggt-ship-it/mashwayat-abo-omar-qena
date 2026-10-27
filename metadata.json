@@ -1,0 +1,6 @@
+{
+  "name": "مشويات أبو عمر - قنا",
+  "description": "الموقع الرسمي لمشويات أبو عمر في قنا - الشؤون. أشهى المشويات على الفحم، لحوم بلدي طازجة 100%، توصيل سريع لجميع أحياء قنا وطلب مباشر عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
